@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lists">
+        <item>US Dollar (USD)</item>
+        <item>EURO (EUR)</item>
+        <item>Japenese Yen (JPY)</item>
+        <item>Swiss Franc (CHF)</item>
+        <item>Australian Dollar (AUD)</item>
+        <item>Tunisian Dinar (TND)</item>
+    </string-array>
+    <string-array name="listss">
+        <item>US Dollar (USD)</item>
+        <item>EURO (EUR)</item>
+        <item>Japenese Yen (JPY)</item>
+        <item>Swiss Franc (CHF)</item>
+        <item>Australian Dollar (AUD)</item>
+        <item>Tunisian Dinar (TND)</item>
+    </string-array>
+</resources>
